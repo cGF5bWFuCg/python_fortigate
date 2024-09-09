@@ -12,10 +12,10 @@ Prerequisites
 
 ## Generate API Token on FortiGate
 
-    1. Log in to your FortiGate device.
-    2. Navigate to System > Administrators > Create New.
-    3. Set the type to API.
-    4. Generate an API token and note it for later use.
+1. Log in to your FortiGate device.
+2. Navigate to System > Administrators > Create New.
+3. Set the type to API.
+4. Generate an API token and note it for later use.
 
 ## Running the Script
 
