@@ -4,9 +4,9 @@
 The `fortipay_add_obj_csv.py` script allows you to add FortiGate objects from a CSV file. Follow the steps below to set up and run the script:
 Prerequisites
 
-    Install Python: Ensure you have Python 3 installed. You can download it from python.org.
+    + Install Python: Ensure you have Python 3 installed. You can download it from python.org.
 
-    Install Required Library: You need the requests library to make API `requests` to the FortiGate firewall. Install it using pip:
+    + Install Required Library: You need the requests library to make API `requests` to the FortiGate firewall. Install it using pip:
 
     `pip install requests`
 
