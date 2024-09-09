@@ -8,7 +8,7 @@ Prerequisites
 
 + Install Required Library: You need the requests library to make API `requests` to the FortiGate firewall. Install it using pip:
 
-    `pip install requests`
+    ```pip install requests```
 
 ## Generate API Token on FortiGate
 
@@ -21,11 +21,11 @@ Prerequisites
 
 To run the script, use the following command with appropriate arguments:
 
-`python3 fortipay_add_obj_csv.py -h`
+```python3 fortipay_add_obj_csv.py -h```
 
 ### Usage
 
-`usage: fortipay_add_obj_csv.py [-h] --ip IP --token TOKEN --file FILE`
+```usage: fortipay_add_obj_csv.py [-h] --ip IP --token TOKEN --file FILE```
 
 ### Options
 
